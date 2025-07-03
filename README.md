@@ -39,7 +39,7 @@
 - 📸 **Instagram**: [@luiscarlosdv_oficial](https://www.instagram.com/luiscarlosdv_oficial/)
 - 🐦 **Twitter (X)**: [@VlleLuis](https://x.com/VlleLuis)
 - 🎥 **TikTok**: [@luiscarloslifestyle](https://www.tiktok.com/@luiscarloslifestyle)
-- 💼 **LinkedIn**: *Próximamente*
+- 💼 **LinkedIn**: (https://www.linkedin.com/in/luis-carlos-del-valle-130137286/)
 - 🌍 **Portfolio / Sitio web**: *Próximamente*
 
 ---
