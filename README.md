@@ -35,8 +35,11 @@
 
 ## 🌐 Conéctate conmigo
 
-- 💻 **Facebook Page**: [Luis Carlos For The Worl](https://www.facebook.com/profile.php?id=61555809658077)  
-- 💼 **LinkedIn**: *Próximamente*  
+- 💙 **Facebook**: [Luis Carlos Del Valle](https://www.facebook.com/LuisCarlosDelValle22/)
+- 📸 **Instagram**: [@luiscarlosdv_oficial](https://www.instagram.com/luiscarlosdv_oficial/)
+- 🐦 **Twitter (X)**: [@VlleLuis](https://x.com/VlleLuis)
+- 🎥 **TikTok**: [@luiscarloslifestyle](https://www.tiktok.com/@luiscarloslifestyle)
+- 💼 **LinkedIn**: *Próximamente*
 - 🌍 **Portfolio / Sitio web**: *Próximamente*
 
 ---
@@ -46,6 +49,10 @@
 > ⭐ **"El mejor proyecto siempre será el próximo."**
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LuisCarlosDelValle-TI&label=Visitas&color=0e75b6&style=flat" alt="profile-views" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LuisCarlosDelValle-TI&label=Visitas&color=0e75b6&style=flat" alt="profile-views" />
