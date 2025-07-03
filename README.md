@@ -1,6 +1,6 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc2cc,100:ffe5ec&height=200&section=header&text=¡Hola,%20soy%20Luis%20Carlos!&fontSize=40&fontColor=000000" alt="banner" />
+  <img src="C:\Users\luisc\Pictures\LOGOS" />
 </p>
 
 # 👋 ¡Hola! Soy @LuisCarlosDelValle-TI
