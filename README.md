@@ -1,6 +1,6 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="C:\Users\luisc\Pictures\LOGOS" />
+  <img src="C:/Users/luisc/Pictures/LOGOS/LOGO.PNG"/>
 </p>
 
 # 👋 ¡Hola! Soy @LuisCarlosDelValle-TI
