@@ -1,6 +1,6 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://github.com/LuisCarlosDelValle-TI/LuisCarlosDelValle-TI/raw/main/logo2.png" alt="Luis Carlos Del Valle" width="600" />
+  <img src="https://github.com/LuisCarlosDelValle-TI/LuisCarlosDelValle-TI/raw/main/logo.jpg" alt="Luis Carlos Del Valle" width="600" />
 </p>
 
 # 👋 ¡Hola! Soy @LuisCarlosDelValle-TI
