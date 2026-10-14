@@ -162,8 +162,8 @@ Tengo un negocio de **recargas, pagos de servicios, copias e impresiones**. Su p
 Escríbeme con lo que tienes en mente y te respondo con una propuesta. Te explico cada paso sin palabras raras.
 
 <p align="center">
-  <a href="https://wa.me/525623315085"><img src="./assets/btn-construye.png" height="52" alt="Construye con Vallestack"></a>
-  <a href="https://vallestack.luisdelvalledelvlle.workers.dev/"><img src="./assets/btn-portafolio.png" height="44" alt="Ver portafolio"></a>
+  <a href="https://vallestack.luisdelvalledelvlle.workers.dev/"><img src="./assets/btn-construye.png" height="52" alt="Construye con Vallestack"></a>
+  <a href="https://wa.me/525623315085"><img src="./assets/btn-portafolio.png" height="44" alt="Escribeme"></a>
 </p>
 
 ### 🌎 Mis redes
